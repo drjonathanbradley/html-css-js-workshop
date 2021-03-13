@@ -1,0 +1,29 @@
+Introduction
+  IDE
+How do websites work
+  Servers and static sites
+  APIs
+Expectations for a project like this
+  Limited interactivity (with a caveat)
+  Scale
+
+HTML
+  Markup (no logic)
+  ARIA tags
+  
+CSS
+  Define Elements and properties
+  Variables are new
+
+JS
+  Code runs in the browser
+  Keep in mind that user has access to everything
+
+Next steps
+  Responsive/Mobile-first design
+  CMS
+  Material Design
+  Handlebars
+  Sass
+  Svelte
+  React
